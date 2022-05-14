@@ -37,6 +37,7 @@
   </languages>
   <subsystems>Subsystem.Продажи</subsystems>
   <subsystems>Subsystem.Справочники</subsystems>
+  <commonModules>CommonModule.ДействиявФормеДокумента</commonModules>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Организация</catalogs>
